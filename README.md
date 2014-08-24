@@ -17,8 +17,7 @@ and each subject.
 
 ================================================================================
 
-The raw data is downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2
-Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+The raw data is downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 Then is unziped in the script directory.
 The script "run_analysis.R" merges the traing and test datasets. Then subset 
 only the measurements on the mean and standard deviation for each measurement. 
